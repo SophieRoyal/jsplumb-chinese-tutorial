@@ -147,7 +147,7 @@ Overlays类型
 // 
 jsPlumb.connect({
   ...
-  connectorOverlays: [
+  overlays: [
     ['Arrow', {
       width: 10,
       length: 10,
